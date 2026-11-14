@@ -8,7 +8,7 @@ namespace Tyuiu.BolohovcevaSV.Sprint2.Task5.V3.Lib
         public string FindDayName(int value)
         {
             string res;
-            switch (value) 
+            switch (value)
             {
                 case 1:
                     res = "Понедельник";
